@@ -18,18 +18,18 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 
 */
 #include <errno.h>
-#include <unistd.h>
+
 #include <signal.h>
 #include <stdlib.h>
 #include <limits.h>
 #include <sys/time.h>
-#include <sys/types.h>
+
 #include <dir.h>
-#include <unistd.h>
-#include <fcntl.h>
+
+
 #include <stdarg.h>
 #include <stdio.h>
-#include <sys/stat.h>
+
 #include <string.h>
 #include <dpmi.h>
 #include <sys/nearptr.h>

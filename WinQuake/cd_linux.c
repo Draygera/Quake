@@ -21,12 +21,10 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 // rights reserved.
 
 #include <stdio.h>
-#include <unistd.h>
 #include <stdlib.h>
 #include <sys/ioctl.h>
 #include <sys/file.h>
-#include <sys/types.h>
-#include <fcntl.h>
+
 #include <string.h>
 #include <time.h>
 #include <errno.h>

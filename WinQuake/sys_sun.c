@@ -21,15 +21,15 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 
 #include "quakedef.h"
 #include "errno.h"
-#include <sys/types.h>
+
 #include <sys/time.h>
-#include <sys/stat.h>
+
 #include <sys/mman.h>
 #include <sys/param.h>
-#include <fcntl.h>
+
 #include <stddef.h>
-#include <sys/types.h>
-#include <fcntl.h>
+
+
 #include <sys/mman.h>
 #include <stdio.h>
 

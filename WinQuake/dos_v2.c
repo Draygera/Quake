@@ -19,7 +19,6 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 */
 #include <sys/segments.h>
 #include <go32.h>
-#include <unistd.h>
 #include <sys/nearptr.h>
 #include <dos.h>
 #include <string.h>

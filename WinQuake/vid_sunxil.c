@@ -24,10 +24,10 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 #define BYTE_DEFINED 1
 
 #include <sys/time.h>
-#include <sys/types.h>
+
 #include <errno.h>
 #include <thread.h>
-#include <unistd.h>
+
 #include <signal.h>
 #include <stdlib.h>
 #include <stdio.h>

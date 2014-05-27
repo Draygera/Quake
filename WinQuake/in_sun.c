@@ -20,8 +20,6 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 // in_sun.c -- SUN/X mouse input handler
 
 #include <sys/time.h>
-#include <sys/types.h>
-#include <unistd.h>
 #include <signal.h>
 #include <stdlib.h>
 #include <stdio.h>
